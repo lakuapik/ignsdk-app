@@ -1,0 +1,7 @@
+menu/ignsdk-mauapa.desktop /usr/share/applications/
+css/ /opt/ignsdk/mauapa.ign/
+js/ /opt/ignsdk/mauapa.ign/
+app.spec /opt/ignsdk/mauapa.ign/
+ignsdk.json /opt/ignsdk/mauapa.ign/
+index.html /opt/ignsdk/mauapa.ign/
+icons/ /opt/ignsdk/mauapa.ign/

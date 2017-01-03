@@ -1,0 +1,18 @@
+{
+  "config" : {
+		"debug" : true,
+		"websecurity" : true,
+		"name" : "Mau Apa?"
+  },
+  "window" : {
+		"transparent" : false,
+		"noframe" : false,
+		"fullscreen" : false,
+		"maximize" : false,
+		"width" : 500,
+		"height" : 600
+	},
+  "button" : [
+
+	]
+}

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Mau Apa
+Exec=/usr/bin/ignsdk -p /opt/ignsdk/mauapa.ign
+Icon=/opt/ignsdk/mauapa.ign/icons/app.png
+Terminal=false
+Type=Application
+Categories=Utility
