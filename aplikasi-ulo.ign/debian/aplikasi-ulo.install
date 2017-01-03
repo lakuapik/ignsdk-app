@@ -1,0 +1,6 @@
+menu/ignsdk-aplikasi-ulo.desktop /usr/share/applications/
+css/ /opt/ignsdk/aplikasi-ulo.ign/
+app.spec /opt/ignsdk/aplikasi-ulo.ign/
+ignsdk.json /opt/ignsdk/aplikasi-ulo.ign/
+index.html /opt/ignsdk/aplikasi-ulo.ign/
+icons/ /opt/ignsdk/aplikasi-ulo.ign/

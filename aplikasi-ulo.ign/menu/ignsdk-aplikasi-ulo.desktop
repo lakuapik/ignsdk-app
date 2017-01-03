@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Aplikasi Ulo
+Exec=/usr/bin/ignsdk -p /opt/ignsdk/aplikasi-ulo.ign
+Icon=/opt/ignsdk/aplikasi-ulo.ign/icons/app.png
+Terminal=false
+Type=Application
+Categories=Game

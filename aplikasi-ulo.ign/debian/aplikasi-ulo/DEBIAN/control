@@ -1,0 +1,10 @@
+Package: aplikasi-ulo
+Version: 1.0
+Architecture: all
+Maintainer: David Adi Nugroho <davidadi216@gmail.com>
+Installed-Size: 73
+Depends: ignsdk-debian | ignsdk
+Section: unknown
+Priority: optional
+Description: Another IGN SDK Application
+ This is an IGN SDK Application
